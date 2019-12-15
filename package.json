@@ -1,6 +1,7 @@
 {
   "name": "lazy-get",
-  "version": "0.1.0",
+  "description": "@lazy getter decorator",
+  "version": "0.1.1",
   "main": "lib",
   "license": "MIT",
   "scripts": {
