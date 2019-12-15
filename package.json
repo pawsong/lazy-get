@@ -1,6 +1,6 @@
 {
   "name": "lazy-get",
-  "description": "@lazy getter decorator",
+  "description": "decorator for getter lazy evaluation",
   "version": "0.1.1",
   "main": "lib",
   "license": "MIT",

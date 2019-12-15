@@ -1,10 +1,12 @@
 # lazy-get
 
-@lazy getter decorator
+decorator for getter lazy evaluation
 
 ## Example
 
 ```typescript
+import lazy from 'lazy-get'
+
 class MyModule {
   @lazy get field() {
     return {}
